@@ -52,3 +52,9 @@ docs/_build/
 
 # PyBuilder
 target/
+
+# Ignore sqllite databases
+*.sqlite3
+
+# Ignore .mrc files
+*.mrc
