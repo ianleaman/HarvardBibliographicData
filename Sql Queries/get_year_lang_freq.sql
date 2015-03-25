@@ -1,0 +1,1 @@
+SELECT year_pub AS Year, language AS Language, COUNT(language) AS FREQUENCY FROM records GROUP BY year_pub;

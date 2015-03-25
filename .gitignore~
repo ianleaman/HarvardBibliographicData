@@ -55,7 +55,6 @@ target/
 
 # Ignore sqllite databases
 *.sqlite3
-*.db
 
 # Ignore .mrc files
 *.mrc

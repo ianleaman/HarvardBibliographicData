@@ -1,0 +1,1 @@
+SELECT year_pub AS YEAR, key_term AS SUBJECT, country_code AS COUNTRY, COUNT(key_term) from records GROUP BY year_pub;

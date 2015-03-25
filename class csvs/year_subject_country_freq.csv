@@ -1,0 +1,597 @@
+YEAR	SUBJECT	COUNTRY	COUNT(key_term)
+	Generals	xx_	295
+0000	Communism	mau	1
+0197	Urban renewal	fr_	1
+0650	Manuscripts, Medieval	enk	1
+0800	Islamic philosophy	mau	1
+1000	Land grants	enk	1
+1059		ne_	0
+1100	Medicine, Magic, mystic, and spagiric	mau	2
+1150		enk	1
+1156	Persian language	mau	1
+1175		enk	0
+1200	Export marketing	mau	1
+1257	Court records	enk	1
+1300	English literature	enk	1
+1340	Administration of estates	mau	1
+1400	Shipment of goods	mau	2
+1451	Pewterers	enk	1
+1468	Contracts (Canon law)	gw_	1
+1469	Canon law	fr_	2
+1470	Procurators (Rome)	gw_	2
+1471		it_	1
+1472		it_	5
+1473	Forms (Canon law)	fr_	12
+1474	Procedure (Canon law)	it_	11
+1475	Statutes	sz_	18
+1476		it_	12
+1477		it_	13
+1478	Ecclesiastical law	gw_	8
+1479		it_	3
+1480	Roman law	gw_	7
+1481	Statutes	enk	6
+1482	Incunabula	gw_	10
+1483	Ecclesiastical law	enk	9
+1484	Statutes	gw_	9
+1485	Law	enk	11
+1486		it_	11
+1487	Benefices, Ecclesiastical (Canon law)	it_	11
+1488		fr_	14
+1489	Canon law	it_	10
+1490		fr_	18
+1491	Handbooks, vade-mecums, etc	gw_	17
+1492	Forms (Canon law)	it_	11
+1493		sp_	23
+1494	Writs	enk	12
+1495		xx_	19
+1496		fr_	12
+1497	Persons (Roman law)	it_	12
+1498		it_	11
+1499	Canon law	sz_	16
+1500	Military law (Roman law)	ge_	13
+1501	Actions and defenses	enk	2
+1502	Pleas of the crown	enk	4
+1503	Customary law	fr_	5
+1504		it_	1
+1505	Fables, Latin (Medieval and modern)	gw_	6
+1506	Architecture, Domestic	it_	2
+1507		it_	3
+1508		gw_	0
+1509	Ships	sp_	7
+1510		gw_	2
+1511	Jewish ethics	tu_	3
+1512		tu_	0
+1513		it_	6
+1514		gw_	5
+1515	Statutes	sp_	6
+1516		enk	12
+1517		it_	3
+1518		tu_	1
+1519		fr_	8
+1520		gw_	5
+1521		gw_	7
+1522		tu_	6
+1523	Authority	xx_	10
+1524		gw_	4
+1525	Canon law	gw_	8
+1526	Love	it_	4
+1527	Emperors	gw_	5
+1528		sz_	2
+1529	Dictionaries, Polyglot	gw_	6
+1530		gw_	4
+1531		fr_	4
+1532	Clergy	gw_	2
+1533	Lutheran Church	gw_	12
+1534		it_	3
+1535	Obedience	enk	5
+1536	Lutheran Church	gw_	2
+1537	Reformation	gw_	3
+1538		gw_	15
+1539	Councils and synods	gw_	2
+1540	Botany	gw_	2
+1541		fr_	3
+1542	Ecclesiastical law	gw_	1
+1543	Angels	gw_	5
+1544		gw_	5
+1545	Jewish law	it_	21
+1546		fr_	17
+1547	Rhetoric	sz_	3
+1548		fr_	2
+1549	Adiaphora	gw_	7
+1550	Incarnation	it_	10
+1551	Monasticism and religious orders	enk	12
+1552		it_	3
+1553	Papacy	gw_	13
+1554		xx_	18
+1555	Aphorisms and apothegms	fr_	8
+1556	Theology	gw_	12
+1557	Theology	gw_	9
+1558	Theology	gw_	9
+1559	Architecture, Ancient	xx_	7
+1560	Trees	fr_	16
+1561		it_	3
+1562	Medicine	enk	7
+1563	Formulas, recipes, etc	enk	9
+1564	Christianity and other religions	bwr	3
+1565		|||	9
+1566	Formulas, recipes, etc	enk	17
+1567		ne_	7
+1568	Formulas, recipes, etc	enk	7
+1569	Formulas, recipes, etc	enk	10
+1570	Adiaphora	gw_	7
+1571	Lutheran Church	gw_	5
+1572		sz_	1
+1573		gw_	4
+1574		gw_	9
+1575	British	gw_	4
+1576		it_	5
+1577	Sermons, Latin	enk	8
+1578	Medicine	enk	3
+1579	Lord's Supper	xx_	2
+1580	Formulas, recipes, etc	enk	12
+1581	Sermons, English	enk	8
+1582	Botany	be_	7
+1583	Antichrist	enk	9
+1584	Kings and rulers	ne_	5
+1585	Lord's Supper	gw_	12
+1586	Herbs	enk	13
+1587	Sermons, Latin	enk	8
+1588	Plants	xx_	5
+1589	Popes	gw_	7
+1590		it_	6
+1591	Jewish ethics	pl_	11
+1592	Agriculture	gw_	7
+1593		enk	17
+1594		enk	5
+1595		sz_	4
+1596	Protestantism	enk	8
+1597		enk	11
+1598	Trinity	rm_	11
+1599		gw_	6
+15uu		gr_	1
+1600		gw_	32
+1601	Pastoral theology	enk	10
+1602	Tobacco	enk	14
+1603	Money	enk	8
+1604	Science	gw_	8
+1605	Plants	fr_	10
+1606		be_	2
+1607	Lutheran Church	sz_	9
+1608	Reformed Church	fr_	7
+1609	Devotional calendars	it_	3
+1610	Botany	ne_	14
+1611		mau	6
+1612	Remonstrants	ne_	12
+1613	Gardens	gw_	4
+1614	Logic	enk	14
+1615	Lord's Supper	enk	15
+1616		ne_	7
+1617		ne_	9
+1618		ne_	17
+1619		ne_	17
+1620	Hebrew language	gw_	9
+1621	Councils and synods	ne_	10
+1622	Casuistry	gw_	10
+1623	Remonstrants	ne_	11
+1624	Finance	xx_	8
+1625	Sermons, English	enk	7
+1626	Hebrew language	gw_	7
+1627	Remonstrants	ne_	6
+1628	Veterinary medicine	ctu	9
+1629	Justification (Christian theology)	enk	13
+1630	Humility	enk	16
+1631	Christian life	fr_	8
+1632		enk	7
+1633	Remonstrants	ne_	7
+1634		enk	5
+1635	Christian sects	enk	7
+1636	Encyclopedias and dictionaries	gw_	1
+1637	Theology, Doctrinal	sz_	11
+1638		enk	6
+1639		sz_	3
+1640		enk	14
+1641	Reformed Church	ne_	8
+1642		enk	7
+1643	Presbyterianism	enk	17
+1644	Freedom of religion	enk	21
+1645		enk	7
+1646	Church polity	enk	20
+1647	Sense (Philosophy)	enk	10
+1648		enk	26
+1649	Papacy	ne_	7
+1650	Ontology	enk	18
+1651	Plants	gw_	14
+1652	Crusades	gw_	21
+1653		enk	18
+1654		enk	11
+1655	Lord's Supper	enk	17
+1656		it_	7
+1657	Marriage	be_	16
+1658	Puritans	enk	18
+1659	Sermons, English	enk	9
+1660		ne_	18
+1661	Ecclesiastical law	gw_	16
+1662	Devotional literature	au_	8
+1663	Greek language	gw_	9
+1664		sz_	6
+1665	Tithes	enk	14
+1666	Emblems	fr_	14
+1667	Natural history	enk	9
+1668	Sermons, English	enk	9
+1669		enk	10
+1670	Trinity	ne_	17
+1671	Maritime law	fr_	14
+1672		enk	19
+1673	Dutch War, 1672-1678	ne_	11
+1674	Martyrs	hu_	11
+1675		gw_	6
+1676	Fruit-culture	enk	19
+1677		sz_	11
+1678		it_	11
+1679	Lutheran Church	gw_	25
+1680	Landscape architecture	it_	15
+1681	Almanacs, German	gw_	30
+1682		enk	8
+1683		gw_	13
+1684	Lutheran Church	gw_	20
+1685	Botany	it_	20
+1686		enk	22
+1687	Floriculture	sz_	9
+1688	Lutheran Church	gw_	16
+1689	Covenant theology	ne_	10
+168u		gw_	0
+1690		stk	17
+1691	Devotional exercises	it_	15
+1692	Inquisition	ne_	17
+1693		sz_	15
+1694		gw_	16
+1695	Papermaking machinery	vau	20
+1696		ne_	18
+1697		enk	14
+1698		gw_	10
+1699	Nature in the Bible	gw_	17
+1700	Melusine (Legendary character)	fr_	23
+1701	Chronology, Roman	enk	17
+1702	Operas	fr_	18
+1703	Botany	fr_	22
+1704		fr_	16
+1705	Uskoks	ne_	21
+1706	Floriculture	xx_	21
+1707	Sermons, English	enk	27
+1708	Cantatas, Sacred	ge_	19
+1709		gw_	17
+1710	Congregational churches	ctu	21
+1711		fr_	18
+1712		it_	29
+1713	Free thought	enk	16
+1714		enk	20
+1715	Fireplaces	ne_	25
+1716		it_	19
+1717		enk	19
+1718		enk	25
+1719	Pulsatilla	gw_	23
+1720		gw_	13
+1721	Gardening	stk	17
+1722	Natural history	ne_	19
+1723		enk	13
+1724		it_	16
+1725	Agriculture, Ancient	enk	24
+1726	Geometry, Descriptive	enk	24
+1727	Quotations, Italian	enk	29
+1728	Shade trees	|||	17
+1729	Fruit	enk	21
+172u		enk	0
+1730		enk	19
+1731	Natural history	enk	29
+1732	Emblems	ne_	30
+1733	Latin language, Medieval and modern	fr_	27
+1734	Saint Bartholomew's Day, Massacre of, France, 1572	enk	33
+1735		dk_	28
+1736	Cosmology	enk	35
+1737		mau	28
+1738	Spiritual life	gw_	37
+1739	Botany	pl_	31
+173u	Inertia mechnics	gw_	2
+1740	Death	ne_	25
+1741	Portuguese literature	po_	20
+1742	Hymns, German	pau	30
+1743	Sermons, English	enk	39
+1744	Lutheran Church	gw_	21
+1745		enk	32
+1746		xx_	42
+1747		ne_	36
+1748		fr_	53
+1749	English poetry	enk	28
+1750	Artists' marks	xx_	34
+1751	Botany	xx_	30
+1752	Painting	enk	36
+1753		gw_	53
+1754	Eschatology	enk	39
+1755	English poetry	enk	39
+1756	Botany	enk	39
+1757		gw_	40
+1758	English poetry	enk	26
+1759		fr_	37
+1760		gw_	32
+1761	Future punishment	enk	32
+1762		fr_	40
+1763	French language	fr_	31
+1764		gw_	34
+1765	Zoology	ne_	45
+1766		enk	50
+1767	Huastec language	mx_	38
+1768	Engraving	it_	42
+1769		enk	34
+1770	Natural history	xxr	50
+1771		ne_	41
+1772		dk_	42
+1773	Landscape gardening	enk	38
+1774		riu	39
+1775	War	enk	53
+1776	Blacks	fr_	56
+1777		enk	34
+1778	Invertebrates	ne_	69
+1779	Philosophy	sz_	41
+1780		xx_	60
+1781	Emblems	sp_	56
+1782	Reformed Church	ne_	54
+1783	Sermons, English	stk	54
+1784	Plants	ru_	68
+1785	Martyrs	pau	62
+1786	Public works	fr_	52
+1787		it_	64
+1788	God	ne_	57
+1789		be_	42
+1790		pau	67
+1791		ie_	81
+1792	Philosophy of nature	ie_	69
+1793	Plants, Cultivated	|||	58
+1794	Forgiveness of sin	enk	59
+1795	Birds	enk	59
+1796		fr_	60
+1797	Constitutional history	pau	72
+1798		enk	66
+1799	Mortar	mau	76
+179u		nyu	0
+17uu		mau	4
+1800	Mennonites	ne_	158
+1801		fr_	64
+1802		enk	86
+1803	Forests and forestry	enk	93
+1804		gw_	58
+1805		enk	87
+1806	Baptism	mau	62
+1807	Songs, English	nyu	54
+1808	Greek language, Modern	gw_	76
+1809		mau	76
+180u	Cabala	un_	1
+1810		miu	79
+1811	Mennonites	ne_	70
+1812		enk	62
+1813	Fish culture	enk	91
+1814	Castles	gw_	56
+1815	Sermons, English	enk	78
+1816		ne_	84
+1817	Poisonous plants	gw_	85
+1818	Methodists	enk	94
+1819		mdu	100
+181u	Baptists	enk	3
+1820		fr_	89
+1821	Geography	ctu	96
+1822		enk	90
+1823		enk	94
+1824		enk	103
+1825		fr_	95
+1826		gw_	103
+1827		enk	103
+1828	Authors, Italian	enk	117
+1829	Mennonites	ne_	108
+1830		it_	93
+1831	Fruit	nyu	134
+1832		enk	115
+1833		enk	146
+1834	Missionaries	mau	137
+1835		ne_	150
+1836	Lutheran Church	hu_	133
+1837	Voyages and travels	enk	127
+1838	Young women	nyu	125
+1839	Mother and child	meu	131
+183u	Youth in church work	mau	3
+183|	Socialism and society	bu_	1
+1840	Blessing and cursing in the Bible	gw_	189
+1841		ne_	140
+1842		enk	155
+1843	Roses	enk	137
+1844	Survivors' benefits	ne_	164
+1845	French language	fr_	165
+1846	Missions, Dutch	io_	139
+1847	Operas	fr_	153
+1848	Mennonites	ne_	141
+1849	Theologians	nyu	144
+184u	Lutheran Church	nyu	1
+1850		nyu	170
+1851	Church and state	ne_	134
+1852	Dahlias	nyu	137
+1853		nyu	136
+1854	Religion and science	mau	163
+1855	American literature	nyu	147
+1856		enk	163
+1857	Young women	mau	139
+1858		fr_	182
+1859	Sermons, Dutch	ne_	198
+185u	Baptists	mau	6
+185|		fr_	1
+1860	Geology	mau	218
+1861	Atoms	miu	170
+1862	Religion and Medicine	mau	147
+1863		enk	191
+1864	Minerals	enk	208
+1865	Casuistry	gw_	166
+1866	Gold mines and mining	quc	206
+1867		ne_	188
+1868	Philosophy, Ancient	enk	181
+1869		xx_	212
+186u	Jews	ne_	2
+1870	Parks	nyu	210
+1871	Decoration and ornament	gw_	178
+1872	Ferns	enk	194
+1873	Philosophy, Modern	nyu	195
+1874		gw_	195
+1875		ne_	219
+1876		fr_	250
+1877		dk_	202
+1878	Authors, French	enk	228
+1879	Gardening	enk	228
+187u		mau	1
+1880	Gardening	enk	318
+1881	Infant baptism	ne_	288
+1882	Mythology, Slavic	dk_	224
+1883	Flowers	gw_	269
+1884		ne_	243
+1885		tu_	273
+1886	Liberalism (Religion)	ne_	268
+1887		ne_	263
+1888	Gems, Classical	enk	308
+1889	Landscape gardening	enk	315
+188u	Science	no_	6
+1890	Sermons, Dutch	ne_	363
+1891	American literature	mau	357
+1892	Geology	xx_	287
+1893		mau	398
+1894	Anti-Catholicism	ne_	367
+1895	Fasts and feasts	mau	363
+1896		it_	332
+1897	Mennonites	ne_	363
+1898	Songs, Yiddish	nyu	370
+1899	Political science	nyu	364
+189u	Sunday schools	ilu	15
+18uu		nyu	177
+19	Crime	pl_	1
+1900	Church and state	ne_	1066
+1901	Sermons, Dutch	ne_	423
+1902	Landscape gardening	enk	362
+1903	Sermons, Dutch	ne_	467
+1904	Gardens	mau	497
+1905	Cottages	pau	479
+1906	Architecture, Domestic	pau	515
+1907	Mines and mineral resources	fr_	552
+1908	Paleobotany	onc	524
+1909	Theology	ne_	495
+190u	Jewish farmers	ag_	30
+1910	Missions, Dutch	ne_	660
+1911		gw_	647
+1912	Tunicata	gw_	691
+1913	Sermons, Dutch	ne_	589
+1914		ne_	555
+1915		ne_	504
+1916	World War, 1914-1918	nyu	512
+1917	Personality	enk	444
+1918	Manuscripts, Greek (Papyri)	gw_	485
+1919		nyu	556
+191u		nyu	23
+1920	Magnetism	enk	775
+1921	Society of Friends	enk	686
+1922	Lord's Supper	ne_	834
+1923	Architecture, Greek	nyu	918
+1924	Greek literature	enk	879
+1925	Botany	|||	969
+1926	Buildings	nyu	939
+1927	Botany	|||	949
+1928	Greek literature	enk	1007
+1929	Mosses	|||	1024
+192u		dcu	87
+1930		nyu	1176
+1931	Botany	ilu	1023
+1932	Land settlement	nyu	952
+1933		ne_	928
+1934	Socialism	enk	1009
+1935	French literature	nyu	1077
+1936		mau	1160
+1937		fr_	1092
+1938	Swedes	ilu	1158
+1939	World War, 1914-1918	enk	1273
+193u		dcu	110
+1940	Plants	ilu	1294
+1941	Psychology	nyu	1068
+1942	Tulip Mania, 1634-1637	ne_	997
+1943	Musicians	nyu	1001
+1944	Finance	nyu	939
+1945	World War, 1914-1918	enk	1231
+1946	Civilization, Anglo-Saxon	enk	1468
+1947	Gardens	nyu	1671
+1948	Constitutions	ilu	1644
+1949	Acting	nyu	1708
+194u		mau	123
+1950		mau	1991
+1951		nyu	1570
+1952	Executive departments	dcu	1652
+1953	Paleontology	nyu	1694
+1954	Canadian poetry	onc	1790
+1955	Crusades	pau	1746
+1956	Theater	nyu	1820
+1957	Ethnology	wau	1958
+1958	Jews	miu	2042
+1959	Philosophy	enk	2085
+195u	Administrative agencies	nyu	151
+1960	Education	ctu	2519
+1961		mx_	2418
+1962		flu	2612
+1963	Horses	cau	3028
+1964		|||	3412
+1965	Christian literature, Early	nju	3984
+1966	Statesmen	nyu	4394
+1967	Geology	it_	4958
+1968	Visions	enk	4833
+1969		enk	4833
+196u	College student government	mau	213
+1970	Maya art	nyu	5736
+1971	Art metal-work	ctu	5586
+1972	Rare earths	rur	6694
+1973	Teachers	ag_	8594
+1974		ko_	13905
+1975	Criminals	enk	21327
+1976	Sticklebacks	enk	28538
+1977	Recombination, Genetic	nyu	35424
+1978	Photoconductivity	nyu	36551
+1979	Commercial crimes	rur	36446
+197u	Jewish-Arab relations	sy_	382
+197|	Education, Bilingual	dcu	1
+1980	Art	nju	34003
+1981	Actions and defenses	cau	26734
+1982		miu	22965
+1983	Armenian question	tu_	28112
+1984	Banks and banking, International	enk	40070
+1985	Cities and towns	tu_	50927
+1986	Industrial management	enk	49350
+1987	Migration, Internal	nyu	19476
+1988	Portrait painters	at_	2220
+1989	Russian literature	rur	513
+198u	Aeronautics, Commercial	dcu	351
+1990	Deprogramming	nyu	217
+1991	Jazz	xx_	132
+1992	Hausa language	nr_	62
+1993		gw_	37
+1994	Book covers	enk	25
+1995		gw_	17
+1996	Sonatas (Violin and piano)	gw_	15
+1997	Working class	enk	11
+1998	Musicals	nyu	9
+1999	Administrative courts	rm_	9
+199u	Policy sciences	pau	18
+19uu	Renal Dialysis	mdu	4651
+1uuu	Fires	dcu	257
+2000	Constitutional law	it_	5
+2001		is_	5
+2002	Islam	enk	6
+2003		gw_	6
+2004		cau	18
+2005	Jewish law	is_	6
+2006	Sanctions (International law)	nyu	1
+2007		fr_	1
+2008	Droit médiéval	gw_	5
+2009	Illumination of books and manuscripts, Armenian	ai_	4
+200u	Budget	cq_	1
+2012		co_	0
+9184		ge_	0
+uuuu		nyu	25
+||||		xxu	14
